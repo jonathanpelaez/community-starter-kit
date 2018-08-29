@@ -35,4 +35,4 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-CONFIGS PLACEHOLDER
+WELCOME TO THE COMMUNITY-STARTER-KIT
